@@ -1,7 +1,7 @@
-# Hi there 👋, my name is Isaac
+# Hi there 👋, my name is Isaac.
 ### On my way to become a Full-stack developer 🏃‍♂️
 
-> Isaac here. I am a student at Microverse. I am passionate about learning new things and developing projects.
+> I am a student at Microverse. I am passionate about learning new things and developing projects.
 
 <img src="./helloworld2.gif"/>
 

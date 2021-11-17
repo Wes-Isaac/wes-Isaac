@@ -18,3 +18,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wes-Isaac)](https://github.com/Wes-Isaac/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-Isaac)](https://github.com/Wes-Isaac/github-readme-stats)

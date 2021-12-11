@@ -22,9 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-Isaac)](https://github.com/Wes-Isaac/github-readme-stats)
 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Wes-Isaac&theme=chartreuse-dark"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Wes-Isaac=chartreuse-dark"></p>
 <br>
 <p>
   <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Wes-Isaac&theme=chartreuse-dark">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Wes-Isaac=chartreuse-dark">
 </p>

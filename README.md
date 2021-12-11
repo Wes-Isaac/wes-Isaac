@@ -16,19 +16,15 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Wes-Isaac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yishak-wesego-b404851a7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/wes-isaac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wes-isaac.github.io/Portfolio/)  
 
-<p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Wes-Isaac%7D/count.svg" alt="visitor badge"/></p>
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wes-Isaac)](https://github.com/Wes-Isaac/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wes-Isaac)](https://github.com/Wes-Isaac/github-readme-stats)
 
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Wes-Isaac&theme=chartreuse-dark"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Wes-Isaac&theme=chartreuse-dark"></p>
 <br>
-<p align="center">
+<p>
   <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=Wes-Isaac&theme=chartreuse-dark">
 </p>

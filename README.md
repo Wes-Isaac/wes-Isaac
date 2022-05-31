@@ -5,7 +5,7 @@
 
 <img src="./helloworld2.gif"/>
 
-### Skills: HTML/ CSS/ JS/ PHP /MYSQL
+### Skills: HTML/ CSS/ JS/ /REACT/ RUBY/ RAILS/ PHP/ MYSQL/ POSTGRES
 
 
 - 🌱 I’m currently learning React and Ruby. 

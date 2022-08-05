@@ -1,11 +1,11 @@
 # Hi there 👋, my name is Isaac.
-### On my way to become a Full-stack developer 🏃‍♂️
+###  Full-stack developer 🏃‍♂️
 
-> I am a student at Microverse. I am passionate about learning new things and developing projects.
+
 
 <img src="./helloworld2.gif"/>
 
-### Skills: HTML/ CSS/ JS/ REACT/ RUBY/ RAILS/ PHP/ MYSQL/ POSTGRES
+### Skills: JS/ REACT/ NEXT/ FIREBASE/ RUBY/ RAILS/ PHP/ MYSQL/ POSTGRES
 
 
 - 🌱 I’m currently learning React and Ruby. 

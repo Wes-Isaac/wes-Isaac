@@ -8,8 +8,8 @@
 ### Skills: React Native/ Nextjs/ Firebase/ Ruby on Rails/ PHP/ MYSQL/ POSTGRES
 
 
-- 🌱 I’m currently learning React and Ruby. 
-- 👯 I’m looking to collaborate on any open source project. 
+- 🌱 I’m currently learning Rust. 
+- 👯 I’m looking to collaborate on any open-source project. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yishak-wesego-b404851a7/) 
 
 

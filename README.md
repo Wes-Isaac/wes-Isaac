@@ -5,7 +5,7 @@
 
 <img src="./helloworld2.gif"/>
 
-### Skills: React Native/ Nextjs/ Firebase/ Ruby on Rails/ PHP/ MYSQL/ POSTGRES
+### Skills: React Native/ Nextjs/ Firebase/ Nestjs/ PHP
 
 
 - 🌱 I’m currently learning Rust. 
